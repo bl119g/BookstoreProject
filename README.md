@@ -11,3 +11,6 @@ Admin: Login page
        
 Client: Displays contents added on Admin side
         Can add anonymous comments that are reviewed and approved on client side
+
+https://swe.umbc.edu/~mcorpus1/Final/admin/index.html
+https://swe.umbc.edu/~mcorpus1/Final/index.php
